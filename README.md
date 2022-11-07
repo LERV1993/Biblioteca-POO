@@ -6,6 +6,10 @@ Bibliteca-POO es un proyecto presentado por la matería de programación orienta
 Para el mismo se solicita crear una base de datos en mariaDB con dos tablas una de "Clientes" y otra de "Libros".
 La programación debe ser en su totalidad utilizando el paradigma de POO y parte de un trabajo final del cuatrimestre pasado en el que se realizó el mismo ejercicio en programación estructurada con manejo de archivos. Utilizando dos archivos ".txt" como reemplazo  a base de datos.
 
+# Para su uso:
+Ejecutar archivo 17-biblioteca que es el que posee el acceso a toda la lógica.
+Considerar que la base de datos está configurada en el puerto 4005, usuario root y sin contraseña. Si se esta utilizando ese puerto en otro proyecto puede haber inconvenientes. Se recomienda cambiar el puerto en la configuración del archivo "Tablas" en el __init__ y en el metodo "conectarBaseDeDatos()"
+
 # Funcionalidades princiaples.
 El programa permite:
 
