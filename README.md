@@ -8,7 +8,7 @@ La programación debe ser en su totalidad utilizando el paradigma de POO y parte
 
 # Para su uso:
 Ejecutar archivo 17-biblioteca.py que es el que posee el acceso a toda la lógica.
-Considerar que la base de datos está configurada en el puerto 4005, usuario root y sin contraseña. Si se esta utilizando ese puerto en otro proyecto puede haber inconvenientes. Se recomienda cambiar el puerto en la configuración del archivo "Tablas" en el __init__ y en el metodo "conectarBaseDeDatos()"
+Considerar que la base de datos está configurada en el puerto 4005, usuario root y sin contraseña. Si se está utilizando ese puerto en otro proyecto puede haber inconvenientes. Se recomienda cambiar el puerto en la configuración del archivo "Tablas" en el __init__ y en el metodo "conectarBaseDeDatos()"
 
 # Funcionalidades princiaples.
 El programa permite:
